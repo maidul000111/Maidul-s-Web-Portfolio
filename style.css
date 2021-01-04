@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    font-family: 'Acme', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.welcome-name{
+    color: #a80303;
+}
+.half-div{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-div img{
+    width: 100%;
+}
+.top-banner{
+   background-image: url(images/top-banner.png);
+   background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, #773535, #a80303);
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
+.the-goal{
+    color: #a80303;
+}
